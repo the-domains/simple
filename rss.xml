@@ -2,13 +2,20 @@
     <channel>
         <title><![CDATA[simple]]></title>
         <description><![CDATA[simple]]></description>
-        <link>http://github.com/dylang/node-rss</link>
+        <link>https://thegrid.ai/simple/</link>
         <generator>The Grid</generator>
-        <lastBuildDate>Mon, 25 Jan 2016 13:07:39 GMT</lastBuildDate>
-        <atom:link href="undefinedrss.xml" rel="self" type="application/rss+xml"/>
+        <lastBuildDate>Mon, 25 Jan 2016 13:16:10 GMT</lastBuildDate>
+        <atom:link href="https://thegrid.ai/simple/rss.xml" rel="self" type="application/rss+xml"/>
+        <item>
+            <title><![CDATA[Upwork, the world's largest online workplace]]></title>
+            <description><![CDATA[<article><h1>Upwork, the world's largest online workplace</h1><p>Upwork is where the world goes to work! We are the world's largest online workplace, where savvy businesses hire, manage, and pay an on-demand workforce of talented freelancers.</p><img src="https://www.upwork.com/i/images/856b520.png?cf213de"></article>]]></description>
+            <link>https://www.upwork.com/</link>
+            <guid isPermaLink="false">0137ee60-e0a1-4ff7-978b-1bb92e518d36</guid>
+            <pubDate>Mon, 25 Jan 2016 13:15:59 GMT</pubDate>
+        </item>
         <item>
             <title><![CDATA[Get Everything You Need Starting at $5 - Fiverr]]></title>
-            <description><![CDATA[<article><h1>Get Everything You Need Starting at $5 - Fiverr</h1><p>Fiverr: Graphics, marketing, fun, and more online services, on budget and on time</p><img src="https://s3-us-west-2.amazonaws.com/the-grid-img/p/2b74cbac81d3c5ddd749457c67d702af337fdef2.png"></article>]]></description>
+            <description><![CDATA[<article><h1>Get Everything You Need Starting at $5 - Fiverr</h1><p>Fiverr: Graphics, marketing, fun, and more online services, on budget and on time</p><img src="https://s3-us-west-2.amazonaws.com/the-grid-img/p/21345e861c69dfc64973c9634ba5468f50d25b4a.png"></article>]]></description>
             <link>https://www.fiverr.com/</link>
             <guid isPermaLink="false">7dc5af7d-a2aa-4a0c-b0eb-d4a297e38022</guid>
             <pubDate>Mon, 25 Jan 2016 13:07:38 GMT</pubDate>
