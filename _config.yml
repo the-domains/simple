@@ -1,0 +1,28 @@
+name: simple
+favicon: null
+layout_spectrum: 0.46421689935959876
+typography_spectrum: 0.6533836189191788
+cta:
+  domain: null
+  bucket: null
+  version: null
+analytics:
+  google: null
+  facebook: null
+  twitter: null
+opengraph:
+  image: null
+  type: null
+  appId: null
+color:
+  brandColors:
+    - '#B8B42D'
+    - '#697A21'
+    - '#FFFCE8'
+    - '#3E363F'
+    - '#DD403A'
+  brandStrength: 0.36679588234983385
+  lightness: 0.5499525568448007
+  saturation: 0.19273520354181528
+  rhythmicContrast: 0.9774252485949546
+purpose: []
