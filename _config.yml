@@ -1,7 +1,7 @@
 name: Roljobs
 favicon: null
-layout_spectrum: 0.33655
-typography_spectrum: 0.60813
+layout_spectrum: 0.52818
+typography_spectrum: 0.62262
 title: ﻿Roljobs Technology Services Pvt Ltd
 cta:
   domain: null
@@ -23,7 +23,7 @@ color:
     - '#bdceea'
     - '#000004'
   brandStrength: 0.5
-  lightness: 0.8125
+  lightness: 0.875
   saturation: 0.5625
-  rhythmicContrast: 0.5
+  rhythmicContrast: 0.75
 purpose: []
