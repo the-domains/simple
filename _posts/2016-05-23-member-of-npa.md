@@ -6,8 +6,8 @@ isBasedOnUrl: ''
 inLanguage: null
 keywords: []
 description: ''
-datePublished: '2016-05-23T10:23:29.235Z'
-dateModified: '2016-05-23T10:22:38.195Z'
+datePublished: '2016-05-23T10:25:55.191Z'
+dateModified: '2016-05-23T10:25:50.377Z'
 title: MEMBER OF NPA
 author:
   - name: ''
@@ -22,3 +22,7 @@ _type: Blurb
 ![](https://the-grid-user-content.s3-us-west-2.amazonaws.com/b9de8ff4-48cc-49e2-8638-307f14bbcb1c.jpg)
 
 ### MEMBER OF NPA
+
+### The worldwide recruitment network - your connection to premier independent recruiting firms located throughout Europe, Asia, Australia, Africa and the Americas - www.npaworldwide.com
+
+###
