@@ -5,8 +5,8 @@ inNav: false
 inLanguage: null
 keywords: []
 description: ''
-datePublished: '2016-05-23T09:48:09.220Z'
-dateModified: '2016-05-23T09:48:08.541Z'
+datePublished: '2016-05-23T09:48:26.497Z'
+dateModified: '2016-05-23T09:48:21.107Z'
 title: Sourcing The Best Talent Internationally - since 2002
 author:
   - name: ''
@@ -14,7 +14,7 @@ author:
 sourcePath: _posts/2016-05-23-sourcing-the-best-talent-internationally-since-2002.md
 authors: []
 publisher: null
-starred: false
+starred: true
 url: sourcing-the-best-talent-internationally-since-2002/index.html
 _type: Article
 
