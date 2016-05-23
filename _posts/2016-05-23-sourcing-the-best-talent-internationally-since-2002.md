@@ -1,13 +1,12 @@
 ---
 inFeed: true
-hasPage: false
+hasPage: true
 inNav: false
-isBasedOnUrl: ''
 inLanguage: null
 keywords: []
 description: ''
-datePublished: '2016-05-23T09:40:05.139Z'
-dateModified: '2016-05-23T09:40:01.181Z'
+datePublished: '2016-05-23T09:48:09.220Z'
+dateModified: '2016-05-23T09:48:08.541Z'
 title: Sourcing The Best Talent Internationally - since 2002
 author:
   - name: ''
@@ -15,8 +14,9 @@ author:
 sourcePath: _posts/2016-05-23-sourcing-the-best-talent-internationally-since-2002.md
 authors: []
 publisher: null
-starred: true
-_type: Blurb
+starred: false
+url: sourcing-the-best-talent-internationally-since-2002/index.html
+_type: Article
 
 ---
 ![](https://s3-us-west-2.amazonaws.com/the-grid-img/p/795be6f03d4d623043db134cbf053529ac1396d5.jpg)
