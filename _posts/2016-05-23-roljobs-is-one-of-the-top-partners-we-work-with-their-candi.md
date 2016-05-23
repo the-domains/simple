@@ -5,14 +5,16 @@ inNav: false
 inLanguage: null
 keywords: []
 description: 'Roljobs is one of the top partners we work with. Their candidate submission quality is top notch, which is reflected in very high hire rate. Roland and his entire team always carry themselves in professional manner and are very quick to respond. Roljobs is an asset to any recruiting department.'
-datePublished: '2016-05-23T06:07:33.725Z'
-dateModified: '2016-05-23T06:06:36.792Z'
+datePublished: '2016-05-23T06:20:26.766Z'
+dateModified: '2016-05-23T06:19:31.711Z'
 title: ''
-author: []
+author:
+  - name: ''
+    url: ''
+sourcePath: _posts/2016-05-23-roljobs-is-one-of-the-top-partners-we-work-with-their-candi.md
 authors: []
 publisher: null
 starred: false
-sourcePath: _posts/2016-05-23-roljobs-is-one-of-the-top-partners-we-work-with-their-candi.md
 url: roljobs-is-one-of-the-top-partners-we-work-with-their-candi/index.html
 _type: Article
 
