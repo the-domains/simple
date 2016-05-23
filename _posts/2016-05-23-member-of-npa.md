@@ -5,14 +5,16 @@ inNav: false
 inLanguage: null
 keywords: []
 description: ''
-datePublished: '2016-05-23T06:10:03.880Z'
-dateModified: '2016-05-23T06:09:58.471Z'
+datePublished: '2016-05-23T06:26:37.008Z'
+dateModified: '2016-05-23T06:20:24.487Z'
 title: MEMBER OF NPA
-author: []
+author:
+  - name: ''
+    url: ''
+sourcePath: _posts/2016-05-23-member-of-npa.md
 authors: []
 publisher: null
 starred: false
-sourcePath: _posts/2016-05-23-member-of-npa.md
 url: member-of-npa/index.html
 _type: Article
 
