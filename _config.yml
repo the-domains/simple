@@ -1,7 +1,7 @@
-name: simple
+name: Roljobs
 favicon: null
-layout_spectrum: 0.88749
-typography_spectrum: 0.49702
+layout_spectrum: 1
+typography_spectrum: 0.60813
 title: Leaders in Social Media Recruitment™
 cta:
   domain: null
@@ -22,8 +22,8 @@ color:
     - '#FFFCE8'
     - '#3E363F'
     - '#DD403A'
-  brandStrength: 0.36679588234983385
-  lightness: 0.5499525568448007
+  brandStrength: 0.5
+  lightness: 0.3125
   saturation: 0.19273520354181528
-  rhythmicContrast: 0.9774252485949546
+  rhythmicContrast: 0.75
 purpose: []
