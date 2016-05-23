@@ -5,8 +5,8 @@ inNav: false
 inLanguage: null
 keywords: []
 description: ''
-datePublished: '2016-05-23T07:03:49.856Z'
-dateModified: '2016-05-23T07:03:49.104Z'
+datePublished: '2016-05-23T07:09:51.573Z'
+dateModified: '2016-05-23T07:09:50.639Z'
 title: Sourcing The Best Talent Internationally - since 2002
 author: []
 sourcePath: _posts/2016-05-23-sourcing-the-best-talent-internationally-since-2002.md
@@ -18,8 +18,8 @@ _type: Article
 
 ---
 ![](https://the-grid-user-content.s3-us-west-2.amazonaws.com/c0c6ef1e-3528-481f-8f9b-b2f23fe9c6d4.jpg)
-![](https://the-grid-user-content.s3-us-west-2.amazonaws.com/2c5bf0a0-ab35-4775-8095-b37fc7393c91.png)
 
 ## Sourcing The Best Talent Internationally - since 2002
 
 ### Leaders in Social Media Recruitment(tm)
+![](https://the-grid-user-content.s3-us-west-2.amazonaws.com/2c5bf0a0-ab35-4775-8095-b37fc7393c91.png)
