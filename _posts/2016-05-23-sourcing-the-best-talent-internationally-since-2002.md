@@ -5,9 +5,9 @@ inNav: false
 inLanguage: null
 keywords: []
 description: ''
-datePublished: '2016-05-23T09:48:26.497Z'
-dateModified: '2016-05-23T09:48:21.107Z'
-title: Sourcing The Best Talent Internationally - since 2002
+datePublished: '2016-05-23T09:50:44.537Z'
+dateModified: '2016-05-23T09:49:34.028Z'
+title: 'Leaders in Social Media Recruitment '
 author:
   - name: ''
     url: ''
@@ -20,7 +20,5 @@ _type: Article
 
 ---
 ![](https://s3-us-west-2.amazonaws.com/the-grid-img/p/795be6f03d4d623043db134cbf053529ac1396d5.jpg)
-
-## Sourcing The Best Talent Internationally - since 2002
 
 ## Leaders in Social Media Recruitment
