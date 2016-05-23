@@ -4,9 +4,9 @@ hasPage: true
 inNav: false
 inLanguage: null
 keywords: []
-description: ''
-datePublished: '2016-05-23T09:53:03.875Z'
-dateModified: '2016-05-23T09:52:43.521Z'
+description: Sourcing The Best Talent Internationally - since 2002
+datePublished: '2016-05-23T09:55:00.463Z'
+dateModified: '2016-05-23T09:54:55.582Z'
 title: Leaders in Social Media Recruitment
 author:
   - name: ''
